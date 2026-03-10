@@ -28,9 +28,8 @@ function Header() {
           <span className="nav_item_lineTwo">Shop</span>
         </div>
         <div className="nav_items basket">
-          <span className="nav_item_lineOne ">Basket</span>
-          <span className="material-symbols-outlined">shopping_basket</span>
-          <span className="nav_item_lineTwo basket_count">0</span>
+            <span className="material-symbols-outlined">shopping_basket</span>
+  <span className="basket_count">0</span>
         </div>
       </div>
     </div>
